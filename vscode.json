@@ -1,0 +1,22 @@
+{
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.formatOnPaste": true,
+	"workbench.statusBar.visible": true,
+	"workbench.statusBar.feedback.visible": false,
+	"window.menuBarVisibility": "toggle",
+	"editor.minimap.enabled": false,
+	"editor.fontSize": 16,
+	"editor.tabSize": 2,
+	"workbench.editor.tabSizing": "shrink",
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.folding": false,
+	"editor.glyphMargin": false,
+	"editor.smoothScrolling": true,
+	"workbench.colorTheme": "Atom One Dark",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.formatOnSave": true,
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true
+}
